@@ -1,0 +1,6 @@
+{
+  "name": "CampaignForge AI - Email Marketing Studio & Tycoon",
+  "description": "Generate complete, high-converting email marketing campaigns with subject lines, body copy, and 4K visuals, plus an AI strategist copilot and interactive email deliverability arcade game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
